@@ -3,7 +3,7 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 /*if we use % en for font-size in body and also apply in any tag it gets add
 eg: if we use 'font-size:2em --- in body'
